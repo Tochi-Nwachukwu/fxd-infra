@@ -1,6 +1,6 @@
 # ![FlexxyDrive Logo](https://flexxydrive.com/logo2.svg)
 
-# **FlexxiDrive ECS Deployment**
+# **FlexxyDrive ECS Deployment**
 
 ## **📌 Project Overview**
 
